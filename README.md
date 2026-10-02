@@ -1,6 +1,7 @@
 ## 📚 Operating Systems: Three Easy Pieces (OSTEP)
 
-<img width="100%" height="1344" alt="ossss" src="https://github.com/user-attachments/assets/6767c25e-9ea4-4f46-8c1c-bd5d1175732c" />
+<img width="100%" height="1344" alt="ossss" src="https://github.com/user-attachments/assets/ffc15318-4c02-47cb-80f0-a3d4434ecf7a" />
+
 
 <br>
 <br>
