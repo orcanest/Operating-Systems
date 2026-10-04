@@ -24,6 +24,7 @@
 - **Virtualization**
 - **Concurrency**
 - **Persistence**
+
 در طول کتاب ، مفاهیمی مانند CPU ، Memory ، Process ، Thread ، Scheduling ، Synchronization ، File System ، I/O و بسیاری از مباحث مهم دیگر بررسی می‌ شوند.
 
 ### 📚 فهرست
