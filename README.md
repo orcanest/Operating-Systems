@@ -31,8 +31,8 @@
 | # | Chapter | Status |
 |---|---|---|
 |01|[Introduction to Operating Systems](https://github.com/orcanest/Operating-Systems/tree/main/01-Introduction-to-Operating-Systems)| 🟢 |
-|02|[The Abstraction: The Process](#)| 🟡 |
-|03|[Interlude: Process API](#)| ⚪ |
+|02|[The Abstraction: The Process](https://github.com/orcanest/Operating-Systems/tree/main/02-The-abstraction)| 🟢 |
+|03|[Interlude: Process API](#)| 🟡 |
 |04|[Mechanism: Limited Direct Execution](#)| ⚪ |
 |05|[Scheduling: Introduction](#)| ⚪ |
 |06|[Scheduling:The Multi-Level Feedback Queue](#)| ⚪ |
